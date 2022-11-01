@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174149223213",
+    "project_id": "fir-test-66d3c",
+    "storage_bucket": "fir-test-66d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174149223213:android:a2de6a56e191342b66c9a4",
+        "android_client_info": {
+          "package_name": "com.wyrtual.firebase.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174149223213-s7lbp1dbvlilfvi870huvsndc8eb8lbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXKHyqd29Xm0Ck83LiOkZtWge04PcOaz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174149223213-s7lbp1dbvlilfvi870huvsndc8eb8lbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
